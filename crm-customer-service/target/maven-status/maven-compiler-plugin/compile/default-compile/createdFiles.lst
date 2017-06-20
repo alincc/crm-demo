@@ -1,0 +1,8 @@
+com\crm\customer\repo\CustomerRepository.class
+com\crm\customer\serviceimpl\CusotmerServiceImpl.class
+com\crm\customer\service\RemoteAddressMicroserviceCalls.class
+com\crm\customer\entity\Customer.class
+com\crm\customer\CrmCustomersApplication.class
+com\crm\customer\entity\Address.class
+com\crm\customer\controller\CustomerController.class
+com\crm\customer\service\CustomerService.class
